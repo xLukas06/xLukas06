@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on LukasLabs<br>🤝 I’m looking for help with Shadowless<br>🌱 I’m currently learning JS<br>💬 Ask me about anything<br>⚡ Fun fact: I'm still a noob in coding
+🔭 I’m currently working on LukasLabs<br>🤝 I’m looking for help with Shadowless<br>💬 Ask me about anything<br>
 
 
 ## 🌐 Socials:
