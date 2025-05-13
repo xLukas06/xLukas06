@@ -33,6 +33,11 @@ Hi! I'm Lukas, a roblox developer with 3 years of experience creating different 
 **Description:** Built the map with assets, scripted most of the part by myself and also freshed up some old scripts from other users. 
 **Link:** [Sands of Fate](https://www.roblox.com/games/117962027691662/)
 
+### 🔹 Billionaire Simulator X [DISCONTINUED]
+**Role:** Owner
+**Description:** Built the map with assets and a bit by myself, re-scripted most of the part and also used some premade scripts but polished them. 
+**Link:** [Billionaire Simulator X](https://www.roblox.com/games/84026042298120/)
+
 ---
 
 ## 📬 Contact
